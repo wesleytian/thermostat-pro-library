@@ -1,7 +1,7 @@
 Arduino library and example code for ProThermostat -- an Arduino-compatible gadget for controlling air conditioners and heaters.
 
 Read about the conception of the idea here: 
-https://wesleytian.wordpress.com/2016/09/08/remotely-control-your-air-conditioner/
+https://wesleytian.com/posts/ac_hack/
 
 This folder includes the following open-source libraries (and a few others):
 
